@@ -192,6 +192,7 @@ exclude:
   - README
   - tmp
   - vendor
+  - _pages/sitemap.md
 keep_files:
   - .git
   - .svn
