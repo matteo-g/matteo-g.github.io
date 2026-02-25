@@ -2,6 +2,16 @@
    Minimal layout — used for Home, Research, Project Management, Side Quests
    ========================================================================== */
 
+/* Tighten masthead nav so all items fit on one line */
+.masthead__menu-item--lg {
+  padding-right: 1em;
+}
+
+.greedy-nav .visible-links a {
+  font-size: 0.9em;
+  padding: 0.4em 0.6em;
+}
+
 #minimal-main {
   max-width: 720px;
   margin: 4em auto 4em;
