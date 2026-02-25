@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<div id="minimal-main">
+  {% if page.title and page.title != "" %}
+  <h1 class="minimal-page-title">{{ page.title }}</h1>
+  {% endif %}
+  <div class="minimal-content">
+    {{ content }}
+  </div>
+</div>
