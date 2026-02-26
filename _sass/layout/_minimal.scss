@@ -4,12 +4,12 @@
 
 /* Tighten masthead nav so all items fit on one line */
 .masthead__menu-item--lg {
-  padding-right: 1em;
+  padding-right: 0.75em;
 }
 
 .greedy-nav .visible-links a {
-  font-size: 0.9em;
-  padding: 0.4em 0.6em;
+  font-size: 0.85em;
+  padding: 0.4em 0.45em;
 }
 
 #minimal-main {
@@ -183,6 +183,42 @@
     padding-left: 0.8em;
     border-left: 2px solid var(--global-border-color);
     opacity: 0.85;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Side Quests: post list
+   -------------------------------------------------------------------------- */
+
+/* --------------------------------------------------------------------------
+   Media: news entries
+   -------------------------------------------------------------------------- */
+
+.media-entry {
+  margin-bottom: 1.4em;
+
+  .media-outlet {
+    font-size: 0.85em;
+    opacity: 0.65;
+    margin-bottom: 0.15em;
+
+    .media-date {
+      font-style: italic;
+    }
+  }
+
+  .media-headline {
+    font-size: 1em;
+    font-weight: 600;
+
+    a {
+      color: var(--global-text-color);
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
   }
 }
 

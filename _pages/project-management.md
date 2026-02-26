@@ -26,11 +26,4 @@ responsibilities, and the outcome.]
 [Placeholder: description of the project, its goals, your specific
 responsibilities, and the outcome.]
 
-## Project Placeholder Three
 
-**Role:** [Placeholder role]
-**Period:** YYYY–YYYY
-**Context:** [Placeholder: institution or organisation]
-
-[Placeholder: description of the project, its goals, your specific
-responsibilities, and the outcome.]

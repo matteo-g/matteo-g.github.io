@@ -5,11 +5,14 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Projects"
+  - title: "Project Management"
     url: /project-management/
 
   - title: "CV"
     url: /files/cv.pdf
+
+  - title: "Media"
+    url: /media/
 
   - title: "Side Quests"
     url: /side-quests/
