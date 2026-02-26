@@ -4,12 +4,13 @@
 
 /* Tighten masthead nav so all items fit on one line */
 .masthead__menu-item--lg {
-  padding-right: 0.75em;
+  padding-right: 0.5em;
+  font-size: 0.9em;
 }
 
 .greedy-nav .visible-links a {
-  font-size: 0.85em;
-  padding: 0.4em 0.45em;
+  font-size: 0.8em;
+  padding: 0.35em 0.3em;
 }
 
 #minimal-main {

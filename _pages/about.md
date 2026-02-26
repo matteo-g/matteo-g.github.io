@@ -24,15 +24,6 @@ redirect_from:
       Research Center.
     </p>
     <p>
-      Within Economics, my research focuses mostly on
-      <strong>political economy</strong>, <strong>development economics</strong>,
-      and <strong>behavioral economics</strong>. I employ state-of-the-art AI
-      and NLP pipelines to extract and analyse data from natural language, to
-      understand how narratives, beliefs, and social norms affect economic
-      behavior. I planned and led numerous A/B tests, online experiments, and
-      field experiments, in both high- and low-income countries.
-    </p>
-    <p>
       You can reach me at
       <a href="mailto:matteo.grigoletto@wyssacademy.org">matteo.grigoletto@wyssacademy.org</a>.
     </p>
