@@ -10,20 +10,33 @@ redirect_from:
 
 <div class="home-hero">
   <div class="home-bio">
-    <h1>Your Name</h1>
-    <p class="home-role">Placeholder Role · Placeholder Institution</p>
+    <h1>Matteo Grigoletto</h1>
+    <p class="home-role">Post Doc Researcher in Political Economy</p>
     <p>
-      This is a placeholder biography. A few sentences about who you are,
-      your research interests, and your background will go here. You can
-      describe your work, your affiliation, and what drives your research.
+      Welcome to my personal website! I am a Post Doc researcher in Political
+      Economy at the <em>Wyss Academy for Nature at the University of Bern</em>.
+      The Wyss Academy for Nature is an interdisciplinary organization with
+      global reach. Its mission is to transform scientific knowledge into action
+      to address the climate and environmental crises. I obtained my MSc in
+      Economics from the University of Pisa and Scuola Superiore Sant'Anna.
+      I have experience as a researcher in several institutions and universities,
+      including the European Commission Joint Research Center and the University
+      of Zurich.
     </p>
     <p>
-      Before your current position, you worked at [Placeholder: previous
-      employer or institution].
+      My primary research focus lies at the intersection of political economy,
+      public economics and development economics. My research aims to address
+      meaningful economic questions, underscoring the role of narratives,
+      societal norms, and historical context in shaping economic behavior.
+      In my work, I employ advanced methodologies, in particular from the
+      Natural Language Processing and Machine Learning toolkits. My current
+      research projects span across diverse strands of the economic literature
+      including: narrative economics, climate change policy, censorship in
+      democracy, and social norms.
     </p>
     <p>
       You can reach me at
-      <a href="mailto:placeholder@email.com">placeholder@email.com</a>.
+      <a href="mailto:matteo.grigoletto@wyssacademy.org">matteo.grigoletto@wyssacademy.org</a>.
     </p>
   </div>
   <div class="home-photo">
