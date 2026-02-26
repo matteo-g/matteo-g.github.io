@@ -15,24 +15,22 @@ redirect_from:
     <p>
       Welcome to my personal website! I am a Post Doc researcher in Political
       Economy at the <em>Wyss Academy for Nature at the University of Bern</em>.
-      The Wyss Academy for Nature is an interdisciplinary organization with
-      global reach. Its mission is to transform scientific knowledge into action
-      to address the climate and environmental crises. I obtained my MSc in
-      Economics from the University of Pisa and Scuola Superiore Sant'Anna.
-      I have experience as a researcher in several institutions and universities,
-      including the European Commission Joint Research Center and the University
-      of Zurich.
+      I earned my PhD in Economics at the <strong>University of Bern</strong>,
+      where I was advised by <strong>Kai Gehring</strong> (UniBern) and
+      <strong>Costanza Naguib</strong> (UniBern). My thesis was reviewed by
+      <strong>Elliott Ash</strong> (ETH). Prior to my PhD I gained experience
+      in research and policy evaluation at institutions including the University
+      of Zurich, Harvard Business School, and the European Commission Joint
+      Research Center.
     </p>
     <p>
-      My primary research focus lies at the intersection of political economy,
-      public economics and development economics. My research aims to address
-      meaningful economic questions, underscoring the role of narratives,
-      societal norms, and historical context in shaping economic behavior.
-      In my work, I employ advanced methodologies, in particular from the
-      Natural Language Processing and Machine Learning toolkits. My current
-      research projects span across diverse strands of the economic literature
-      including: narrative economics, climate change policy, censorship in
-      democracy, and social norms.
+      Within Economics, my research focuses mostly on
+      <strong>political economy</strong>, <strong>development economics</strong>,
+      and <strong>behavioral economics</strong>. I employ state-of-the-art AI
+      and NLP pipelines to extract and analyse data from natural language, to
+      understand how narratives, beliefs, and social norms affect economic
+      behavior. I planned and led numerous A/B tests, online experiments, and
+      field experiments, in both high- and low-income countries.
     </p>
     <p>
       You can reach me at
