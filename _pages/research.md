@@ -91,18 +91,18 @@ experiments, and field experiments, in both high- and low-income countries.
 ## Working Papers
 
 <div class="paper-entry">
-  <div class="paper-title">Working Paper Title Placeholder One</div>
-  <div class="paper-meta">with Coauthor Name · Year</div>
+  <div class="paper-title">Virality: What Makes Narratives Go Viral and Does it Matter?</div>
+  <div class="paper-meta">with Kai Gehring · 2025</div>
   <div class="paper-links">
-    <a href="#" class="paper-btn">PDF</a>
+    <a href="/files/virality.pdf" class="paper-btn">PDF</a>
   </div>
 </div>
 
 <div class="paper-entry">
-  <div class="paper-title">Working Paper Title Placeholder Two</div>
-  <div class="paper-meta">with Coauthor Name · Year</div>
+  <div class="paper-title">Censorship in Democracy</div>
+  <div class="paper-meta">with Marcel Caesmann, Lorenz Gschwent · 2024</div>
   <div class="paper-links">
-    <a href="#" class="paper-btn">PDF</a>
+    <a href="/files/censorship.pdf" class="paper-btn">PDF</a>
   </div>
 </div>
 
