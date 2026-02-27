@@ -161,6 +161,16 @@
   }
 }
 
+/* Override global link color inside .minimal-content so buttons stay blue */
+.minimal-content a.paper-btn {
+  color: #1d9bf0;
+
+  &:hover {
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
 /* Abstract collapsible (details/summary) */
 .paper-abstract {
   display: inline-block;

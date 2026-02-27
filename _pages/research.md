@@ -93,6 +93,10 @@ experiments, and field experiments, in both high- and low-income countries.
 <div class="paper-entry">
   <div class="paper-title">Virality: What Makes Narratives Go Viral and Does it Matter?</div>
   <div class="paper-meta">with Kai Gehring · 2025</div>
+  <details class="paper-abstract">
+    <summary>Abstract</summary>
+    <p></p>
+  </details>
   <div class="paper-links">
     <a href="/files/virality.pdf" class="paper-btn">PDF</a>
   </div>
@@ -101,6 +105,10 @@ experiments, and field experiments, in both high- and low-income countries.
 <div class="paper-entry">
   <div class="paper-title">Censorship in Democracy</div>
   <div class="paper-meta">with Marcel Caesmann, Lorenz Gschwent · 2025</div>
+  <details class="paper-abstract">
+    <summary>Abstract</summary>
+    <p></p>
+  </details>
   <div class="paper-links">
     <a href="/files/censorship.pdf" class="paper-btn">PDF</a>
   </div>
@@ -111,6 +119,10 @@ experiments, and field experiments, in both high- and low-income countries.
 <div class="paper-entry">
   <div class="paper-title">Böswichte gehen viral: Warum politische Narrative Erwartungen und Entscheidungen prägen</div>
   <div class="paper-meta">with Kai Gehring · <em>ifo Schnelldienst</em>, 79/02/2026</div>
+  <details class="paper-abstract">
+    <summary>Abstract</summary>
+    <p></p>
+  </details>
   <div class="paper-links">
     <a href="/files/german_narratives.pdf" class="paper-btn">PDF</a>
   </div>
