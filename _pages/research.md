@@ -95,7 +95,29 @@ experiments, and field experiments, in both high- and low-income countries.
   <div class="paper-meta">with Kai Gehring · 2025</div>
   <details class="paper-abstract">
     <summary>Abstract</summary>
-    <p></p>
+    <p>The effectiveness of political narratives as a communication technology
+    depends on their virality and on the persuasiveness of single narrative
+    exposure. To analyze narratives empirically, we introduce the political
+    narrative framework and a pipeline for its measurement using large language
+    models (LLMs). The framework captures the essence of a narrative by its
+    characters, who are either neutral or cast in one of three drama triangle
+    roles: hero, villain, or victim. Using 1.15 million U.S. climate policy
+    tweets from 2010–2021, we find that political narratives are consistently
+    more viral than comparable neutral tweets. This result is robust to
+    conditioning on a rich set of fixed effects, author characteristics, language
+    metrics and emotionality. Hero roles increase virality by 56%, but the biggest
+    virality boost stems from using villain roles (152%) and from combining other
+    roles with villain characters. To examine the persuasiveness of single exposure
+    to some of the most frequent and viral character-role combinations, we use
+    three pre-registered online experiments with 3000 participants. The results
+    show that narrative exposure influences beliefs and revealed preferences about
+    a character, while a single exposure is not sufficient to move support for
+    specific policies. Political narratives also lead to consistently higher memory
+    of the narrative characters and their roles, while memory of objective facts is
+    not improved. Taken together, the political narrative framework provides a
+    measure that moves beyond emotions and linguistic features, helps to explain
+    virality, and is linked to shifts in beliefs, revealed preferences, and
+    memory.</p>
   </details>
   <div class="paper-links">
     <a href="/files/virality.pdf" class="paper-btn">PDF</a>
@@ -107,7 +129,17 @@ experiments, and field experiments, in both high- and low-income countries.
   <div class="paper-meta">with Marcel Caesmann, Lorenz Gschwent · 2025</div>
   <details class="paper-abstract">
     <summary>Abstract</summary>
-    <p></p>
+    <p>The spread of propaganda and misinformation from autocratic regimes is a
+    growing concern in democracies. We study the European Union's ban on Russian
+    state-backed news outlets after the 2022 invasion of Ukraine, analyzing
+    677,780 tweets from 146,633 users with a difference-in-differences design in
+    a daily panel. The ban reduced pro-Russian tweets by 10.9% per active user
+    day, with strongest effects among users directly connected to the banned
+    outlets. We find no evidence of substitution to secondary suppliers. Evidence
+    on mechanisms indicates that the ban curtailed pro-Russian content by removing
+    key agenda-setters. Finally, we examine the costs of censorship in a democratic
+    context: A pre-registered experiment finds reduced satisfaction with free
+    speech, particularly among political centrists.</p>
   </details>
   <div class="paper-links">
     <a href="/files/censorship.pdf" class="paper-btn">PDF</a>
