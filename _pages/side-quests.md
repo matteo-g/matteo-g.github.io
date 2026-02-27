@@ -5,8 +5,7 @@ title: "Side Quests"
 author_profile: false
 ---
 
-A collection of thoughts, experiments, and explorations outside my main
-work. [Placeholder: one sentence on what you plan to write about here.]
+Here, a collection of ideas, posts, and other, concerning my side quests.
 
 {% for post in site.posts limit:1 %}
 <div class="side-quest-entry">
