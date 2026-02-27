@@ -5,12 +5,14 @@ title: "Research"
 author_profile: false
 ---
 
-Within Economics, my research focuses mostly on **political economy**,
-**development economics**, and **behavioral economics**. I employ
-state-of-the-art AI and NLP pipelines to extract and analyse data from
-natural language, to understand how narratives, beliefs, and social norms
-affect economic behavior. I planned and led numerous A/B tests, online
-experiments, and field experiments, in both high- and low-income countries.
+My research focuses mostly on **political economy**, **development economics**,
+and **behavioral economics**. I employ state-of-the-art AI and NLP pipelines
+to extract and analyse data from natural language, to understand how narratives,
+beliefs, and social norms affect economic behavior. I planned and led numerous
+A/B tests, online experiments, and field experiments, in both high- and
+low-income countries.
+
+[See my Google Scholar profile.](https://scholar.google.ch/citations?hl=en&view_op=list_works&gmla=AF9nlQtjiQQKEnx5XsDRkHnhefdNkvoI9IrzRCpX0R-o7dh1ShNXOZHXKSWuSQLOh-dTfr0W8A8zlD2zVLYG0XsfdNcQ&user=1drTUWMAAAAJ)
 
 ## Recent Projects
 

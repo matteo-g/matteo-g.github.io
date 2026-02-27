@@ -36,9 +36,9 @@ support recruitment and participation. The effort generated roughly 400 survey
 responses and established the operational backbone for fieldwork in a
 hard-to-reach context.
 
-## Changing Policy Preferences and Beliefs: Laboratory Experiment
+## Digital Twin of the Kenyan Savannah
 
-**Role:** Co-Lead &nbsp;·&nbsp; **Period:** 2025–2026 &nbsp;·&nbsp; **Context:** Public Reform
+**Role:** Collaborator &nbsp;·&nbsp; **Period:** 2023–2024 &nbsp;·&nbsp; **Context:** Public Reform
 
 This project supported the design and implementation of a digital-twin
 technology for a large area in central Kenya, with a focus on improving
