@@ -25,7 +25,10 @@ redirect_from:
     </p>
     <p>
       You can reach me at
-      <a href="mailto:matteo.grigoletto@wyssacademy.org">matteo.grigoletto@wyssacademy.org</a>.
+      <a href="mailto:matteo.grigoletto@unibe.ch">matteo.grigoletto@unibe.ch</a>.
+    </p>
+    <p>
+      <a href="https://scholar.google.ch/citations?hl=en&amp;view_op=list_works&amp;gmla=AF9nlQtjiQQKEnx5XsDRkHnhefdNkvoI9IrzRCpX0R-o7dh1ShNXOZHXKSWuSQLOh-dTfr0W8A8zlD2zVLYG0XsfdNcQ&amp;user=1drTUWMAAAAJ">My Google Scholar profile</a>
     </p>
   </div>
   <div class="home-photo">
