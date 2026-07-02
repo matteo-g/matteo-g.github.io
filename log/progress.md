@@ -48,7 +48,53 @@ inspired by https://jmbenkert.ch/
 
 ---
 
-## Current state of placeholders (everything still TODO)
+## Session 2 — 2026-07-02
+
+### Summary
+Site is now **fully populated with real content** and live on a custom domain.
+The "everything is placeholder" state described below is historical — kept for
+reference but no longer accurate.
+
+### Domain
+- Custom domain added via `CNAME` → **matteogrigoletto.com** (also still served at
+  matteo-g.github.io).
+- ⚠️ `_config.yml` `url:` still reads `https://matteo-g.github.io` — should be
+  updated to the custom domain.
+
+### Navigation (`_data/navigation.yml`) — now
+Research · Project Management · CV · **Media** (new) · Side Quests.
+"Home" is not a nav item; the site title links to `/`. CV points to
+`/files/resume.pdf` (file exists).
+
+### Content now real
+- **`_config.yml`** — title/name/bio/email filled in; real Google Scholar URL;
+  `github: matteo-g`. `orcid`, `linkedin`, and most socials still blank.
+- **`about.md`** (Home) — real bio: Post Doc, Political Economy, Wyss Academy for
+  Nature / University of Bern; PhD UniBern (advisors Gehring & Naguib; reviewer
+  Ash). Real `images/profile.png`.
+- **`research.md`** — 3 ongoing "Recent Projects" (Peruvian Amazon narrative work +
+  "Making Villains Great Again") using "Request draft" mailto buttons; 2 Working
+  Papers (Virality; Censorship in Democracy) with PDFs; 1 Publication (ifo
+  Schnelldienst). PDFs live in `files/`: virality.pdf, censorship.pdf,
+  german_narratives.pdf.
+- **`project-management.md`** — 2 real projects: Peruvian Amazon field experiment
+  (Project Lead, 2024–2026) and Digital Twin of the Kenyan Savannah (Collaborator,
+  2023–2024).
+- **`media.md`** (new page) — 3 entries: VoxEU CEPR ×2, SSES Young Economist Award
+  2025.
+- **`side-quests.md`** — shows only the latest post (Liquid `limit:1`). Real post:
+  bikepacking Switzerland (`2023-08-10-heavy-bikes-light-hearts`). Old template
+  posts (2012–2015) and a 2199 future-dated post remain in `_posts/`.
+
+### Loose ends noted (not yet done)
+- Update `_config.yml` `url:` to the custom domain.
+- `files/paper3.pdf` and `files/bibtex1.bib` present but unreferenced.
+- Komoot links in the bikepacking post are `#` placeholders.
+- Old placeholder blog posts / 2199 future post could be cleaned up.
+
+---
+
+## Current state of placeholders (HISTORICAL — Session 1; superseded by Session 2 above)
 
 ### _config.yml — update these fields
 ```yaml

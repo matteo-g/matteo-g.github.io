@@ -30,3 +30,11 @@ Coverage and mentions in news outlets and other media.
     <a href="https://www.sgvs.ch/awards/" class="paper-btn">Link</a>
   </div>
 </div>
+
+<div class="media-entry">
+  <div class="media-title">Changing mining by changing the narrative</div>
+  <div class="media-meta">Wyss Academy for Nature · 2025</div>
+  <div class="media-links">
+    <a href="https://www.wyssacademy.org/en/changing-mining-by-changing-the-narrative" class="paper-btn">Link</a>
+  </div>
+</div>
